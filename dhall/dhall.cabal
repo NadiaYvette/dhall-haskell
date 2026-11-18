@@ -271,6 +271,7 @@ Common common
         prettyprinter               >= 1.7.0    && < 1.8 ,
         prettyprinter-ansi-terminal >= 1.1.2    && < 1.2 ,
         pretty-simple                              < 4.2 ,
+        primitive                   >= 0.8      && < 1.0 ,
         serialise                   >= 0.2.0.0  && < 0.3 ,
         scientific                  >= 0.3.0.0  && < 0.4 ,
         template-haskell            >= 2.13.0.0 && < 2.25,
@@ -366,6 +367,7 @@ Library
         Dhall.Diff
         Dhall.DirectoryTree
         Dhall.Eval.CEK
+        Dhall.Eval.CEK.HashCons
         Dhall.Format
         Dhall.Freeze
         Dhall.Import
