@@ -371,6 +371,7 @@ Library
         Dhall.Format
         Dhall.Freeze
         Dhall.Import
+        Dhall.Import.Penelope
         Dhall.Lint
         Dhall.Main
         Dhall.Marshal.Decode
